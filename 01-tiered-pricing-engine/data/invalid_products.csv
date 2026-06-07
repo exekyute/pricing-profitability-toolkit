@@ -1,0 +1,8 @@
+sku,product_name,unit_cost
+SKU-2001,Good Control Part,5.00
+SKU-2002,Zero Cost Part,0.00
+SKU-2003,Negative Cost Part,-4.00
+SKU-2004,Non Numeric Part,abc
+SKU-2001,Duplicate Sku Part,9.00
+,Missing Sku Part,3.00
+SKU-2006,Missing Cost Part,
