@@ -1,0 +1,16 @@
+sku,product_name,unit_cost,tier_label,min_quantity,target_margin,wholesale_price,achieved_margin
+SKU-1001,Aluminum Bracket,12.00,Tier 1,1,0.4000,20.00,0.4000
+SKU-1001,Aluminum Bracket,12.00,Tier 2,100,0.3500,18.46,0.3499
+SKU-1001,Aluminum Bracket,12.00,Tier 3,500,0.3000,17.14,0.2999
+SKU-1002,Copper Fitting,10.00,Tier 1,1,0.4000,16.67,0.4001
+SKU-1002,Copper Fitting,10.00,Tier 2,100,0.3500,15.38,0.3498
+SKU-1002,Copper Fitting,10.00,Tier 3,500,0.3000,14.29,0.3002
+SKU-1003,Steel Hinge,7.45,Tier 1,1,0.4000,12.42,0.4002
+SKU-1003,Steel Hinge,7.45,Tier 2,100,0.3500,11.46,0.3499
+SKU-1003,Steel Hinge,7.45,Tier 3,500,0.3000,10.64,0.2998
+SKU-1004,Plastic Housing,3.20,Tier 1,1,0.4000,5.33,0.3996
+SKU-1004,Plastic Housing,3.20,Tier 2,100,0.3500,4.92,0.3496
+SKU-1004,Plastic Housing,3.20,Tier 3,500,0.3000,4.57,0.2998
+SKU-1005,Rubber Gasket,0.85,Tier 1,1,0.4000,1.42,0.4014
+SKU-1005,Rubber Gasket,0.85,Tier 2,100,0.3500,1.31,0.3511
+SKU-1005,Rubber Gasket,0.85,Tier 3,500,0.3000,1.21,0.2975
